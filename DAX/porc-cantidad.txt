@@ -1,0 +1,4 @@
+% de Cantidad = DIVIDE(
+    SUM('Ventas Total'[CantidadVendidaUnidadesStock]),
+    CALCULATE(SUM('Ventas Total'[CantidadVendidaUnidadesStock]), ALLSELECTED('Ventas Total'))
+) * 1
