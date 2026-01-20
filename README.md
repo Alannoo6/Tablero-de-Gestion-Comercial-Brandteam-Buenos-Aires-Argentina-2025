@@ -43,5 +43,4 @@ Como primer paso, fue necesario obtener la información desde una base de datos 
 
 Para ello, se desarrollaron los scripts necesarios para construir el conjunto de datos que serviría como origen para el análisis y la visualización en Power BI.
 
-Los scripts utilizados en esta etapa pueden consultarse en la carpeta:
-
+Los scripts utilizados en esta etapa pueden consultarse en la carpeta: [SQL](https://github.com/Alannoo6/Tablero-de-Gestion-Comercial-Brandteam-Buenos-Aires-Argentina-2025/tree/main/SQL)
