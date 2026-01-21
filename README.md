@@ -86,3 +86,27 @@ As a first step, data was extracted from a transactional database hosted on SQL 
 SQL scripts were developed to build the base dataset used as the data source for analysis and visualization in Power BI.
 
 The scripts used in this stage can be found in the following folder:
+
+[sql](./sql)
+
+---
+
+## DAX Measures and Business Logic
+DAX measures were implemented to calculate key performance indicators and commercial performance metrics, including:
+
+- Sales totals and year-over-year variations  
+- Client and salesperson rankings  
+- Contribution and participation percentages  
+- Time intelligence calculations  
+
+The implemented measures can be found in the following folder:
+
+[dax](./dax)
+
+---
+
+## Roadmap (Optional Improvements)
+- Add incremental refresh for large historical datasets  
+- Implement row-level security (RLS) for role-based access  
+- Extend the model with profitability and margin analysis  
+- Integrate automated refresh and monitoring workflows  
